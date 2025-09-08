@@ -14,11 +14,11 @@ We are into the denial management step of **Revenue Cycle Management (RCM)** rig
   <img src="https://scottklasen.com/wp-content/uploads/2021/04/goal-setting-1955806__480.png" alt="Hospital Logo" width="50" style="vertical-align: middle; margin-right: 10px;">
   Project Goals
 </h1>
+
 - Build dashboards to monitor denial rates, trends, and payer patterns.
 - Analyze top denial reasons and financial impact.
 - Provide denial management with easy-to-read KPIs.
 - Highlight recoverable money and preventable denials.
-
 
 <h1>
   <img src="https://www.lohmancompany.com/wp-content/uploads/2018/08/478552927-1-scaled-2560x1280.jpg" alt="Hospital Logo" width="50" style="vertical-align: middle; margin-right: 10px;">
