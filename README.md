@@ -38,7 +38,7 @@ We are into the denial management step of **Revenue Cycle Management (RCM)** rig
 - Where should we spend recovery resources for best ROI? 
 -	Which denial reasons are most frequent and financial impact of them?
 
-## 📊 Tableau Dashboard Design
+## 📊 Excel Dashboard Design
 The dashboard brings the SQL findings to life with visuals:  
 
   ## 🛠️ Tools Used
