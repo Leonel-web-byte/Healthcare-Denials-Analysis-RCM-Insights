@@ -32,6 +32,7 @@ We are into the denial management step of **Revenue Cycle Management (RCM)** rig
  - 01_data.sql → row counts, distinct statuses
    
  This helped me answer questions like:
+ - Summary metrics (**Total claims**, **RDR**, **RecDR**, **CDR**, **Money at risk**, **Preventable Denial claims**)
 - Where are we losing money and why? 
 - Where are we making mistakes and why? 
 - Where should we spend recovery resources for best ROI? 
@@ -43,7 +44,7 @@ The dashboard brings the SQL findings to life with visuals:
   ## 🛠️ Tools Used
 - **SQL**: PostgreSQL 
 - **Visualization**: Power Pivot Excel 
-- **Files**: CSVs
+- **Slicers for quick filtering by Month, Payer, and Department**: Slicers 
 
   ## 📬 Contact
 **Leonel Djouokep**  
