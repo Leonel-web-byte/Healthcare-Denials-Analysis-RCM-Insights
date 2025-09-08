@@ -38,6 +38,12 @@ We are into the denial management step of **Revenue Cycle Management (RCM)** rig
 - Where should we spend recovery resources for best ROI? 
 -	Which denial reasons are most frequent and financial impact of them?
 
+  ## 🛠️ Tools Used
+- **SQL**: PostgreSQL 
+- **Visualization**: Power Pivot Excel 
+- **Files**: CSVs
+
   ## 📬 Contact
 **Leonel Djouokep**  
-📌 Open to data analytics roles | Excel • SQL • Tableau • Data Visualization 
+📌 Open to data analytics roles | Excel • SQL • Tableau • Data Visualization
+📌 Email: gautier.l.djouokep@gmail.com
