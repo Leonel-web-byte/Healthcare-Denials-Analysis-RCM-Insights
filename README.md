@@ -23,7 +23,7 @@ The goal of this project is to provide actionable insights into denial trends by
 -	Which denial reasons are most frequent and financial impact of them?
 
 <h1>
-  <img src="https://waytobi.com/assets/style/img/learn_img_what_kpi.svg" alt="Hospital Logo" width="50" style="vertical-align: middle; margin-right: 10px;">
+  <img src="https://www.istockphoto.com/video/human-brain-mockup-and-financial-business-indicators-in-graphs-gm1364002725-435348288" alt="Hospital Logo" width="50" style="vertical-align: middle; margin-right: 10px;">
    KPIs
 </h1>
  
