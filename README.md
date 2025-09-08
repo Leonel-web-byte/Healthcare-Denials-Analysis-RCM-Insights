@@ -46,4 +46,5 @@ We are into the denial management step of **Revenue Cycle Management (RCM)** rig
   ## 📬 Contact
 **Leonel Djouokep**  
 📌 Open to data analytics roles | Excel • SQL • Tableau • Data Visualization
-📌 Email: gautier.l.djouokep@gmail.com
+
+📌 **Email**: gautier.l.djouokep@gmail.com
