@@ -28,11 +28,21 @@ We are into the denial management step of **Revenue Cycle Management (RCM)** rig
 - Claim denial rate (CDR)
 - Revenue denial rate (RDR)
 - Recoverable denial rate (RecDR)
-- Money at Risk
-- Preventable Denial rate
+- Money at risk
+- Preventable denial claims rate
  
  <h1>
   <img src="https://optim.tildacdn.one/tild6238-3035-4335-a333-306335373139/-/format/webp/IMG_3349.jpg.webp" alt="Hospital Logo" width="50" style="vertical-align: middle; margin-right: 10px;">
    SQL Analysis
 </h1>
- 
+
+ I wrote modular .sql scripts for different parts of the analysis:
+ -
+ -
+ -
+ -
+ This helped me answer questions like:
+- Where are we losing money and why? 
+- Where are we making mistakes and why? 
+- Where should we spend recovery resources for best ROI? 
+-	Which denial reasons are most frequent and financial impact of them?
