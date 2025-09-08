@@ -15,7 +15,7 @@ We are into the denial management step of **Revenue Cycle Management (RCM)** rig
   Project Goals
 </h1>
 
-- Build dashboards to monitor denial rates, trends, and payer patterns.
+- Build dashboards to monitor denial rates, trends, payer and department patterns.
 - Analyze top denial reasons and financial impact.
 - Provide denial management with easy-to-read KPIs.
 - Highlight recoverable money and preventable denials.
