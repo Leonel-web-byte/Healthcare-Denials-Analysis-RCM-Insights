@@ -22,3 +22,9 @@ The goal of this project is to provide actionable insights into denial trends by
 -	Where should we spend recovery resources for best the ROI? 
 -	Which denial reasons are most frequent and financial impact of them?
 
+<h1>
+  <img src="https://waytobi.com/assets/style/img/learn_img_what_kpi.svg" alt="Hospital Logo" width="50" style="vertical-align: middle; margin-right: 10px;">
+   KPIs
+</h1>
+ 
+
