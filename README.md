@@ -14,13 +14,11 @@ We are into the denial management step of **Revenue Cycle Management (RCM)** rig
   <img src="https://scottklasen.com/wp-content/uploads/2021/04/goal-setting-1955806__480.png" alt="Hospital Logo" width="50" style="vertical-align: middle; margin-right: 10px;">
   Project Goals
 </h1>
-The goal of this project is to provide actionable insights into denial trends by payer, department, and denial category, while highlighting financial impact of denials.
+- Build dashboards to monitor denial rates, trends, and payer patterns.
+- Analyze top denial reasons and financial impact.
+- Provide denial management with easy-to-read KPIs.
+- Highlight recoverable money and preventable denials.
 
- ## Business Questions Answered:
--	Where are we losing money? 
--	Where are we making mistakes? 
--	Where should we spend recovery resources for best the ROI? 
--	Which denial reasons are most frequent and financial impact of them?
 
 <h1>
   <img src="https://www.lohmancompany.com/wp-content/uploads/2018/08/478552927-1-scaled-2560x1280.jpg" alt="Hospital Logo" width="50" style="vertical-align: middle; margin-right: 10px;">
