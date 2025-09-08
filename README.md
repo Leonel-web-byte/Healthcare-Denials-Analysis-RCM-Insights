@@ -15,7 +15,8 @@ We are into the denial management step of **Revenue Cycle Management (RCM)** rig
   Project Goals
 </h1>
 The goal of this project is to provide actionable insights into denial trends by payer, department, and denial category, while highlighting financial impact of denials.
-## Business Questions Answered:
+
+ # # Business Questions Answered:
 -	Where are we losing money? 
 -	Where are we making mistakes? 
 -	Where should we spend recovery resources for best ROI? 
