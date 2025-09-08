@@ -5,9 +5,7 @@ We are into the denial management step of **Revenue Cycle Management (RCM)** rig
 👩‍💻 **Developer:** Leonel Djouokep  
 📌 **Subtitle:** SQL + Excel Portfolio Project  
 
-## 📊 Live Dashboard
-
-# 📌 Data Cleaning
+## 📊  Data Cleaning
 -	I removed 22 duplicate claims from the dirty dataset
 -	Standardized dataset format and formatting currency to 2 decimal places.
 -	Standardized date format to MM/DD/YYYY
@@ -36,7 +34,7 @@ We are into the denial management step of **Revenue Cycle Management (RCM)** rig
   ## 🧱 Database Schema
   I  worked with 5 main tables:  
  
-## 🧩 SQL Analysis
+## 🧩 SQL Analysis/Ad-Hoc 
 
  I wrote modular `.sql` scripts for different parts of the analysis:
  
