@@ -31,4 +31,8 @@ We are into the denial management step of **Revenue Cycle Management (RCM)** rig
 - Money at Risk
 - Preventable Denial rate
  
-
+ <h1>
+  <img src="https://www.lohmancompany.com/wp-content/uploads/2018/08/478552927-1-scaled-2560x1280.jpg" alt="Hospital Logo" width="50" style="vertical-align: middle; margin-right: 10px;">
+   SQL Analysis
+</h1>
+ 
