@@ -7,6 +7,17 @@ We are into the denial management step of **Revenue Cycle Management (RCM)** rig
 
 ## 📊 Live Dashboard
 
+# 📌 Data Cleaning
+-	I removed 22 duplicate claims from the dirty dataset
+-	Standardized dataset format and formatting currency to 2 decimal places.
+-	Standardized date format to MM/DD/YYYY
+-	Applied business logic checks (e.g., Paid ≤ Allowed ≤ Claim Amount)
+-	Capped claims Amount and Allowed Amount at minimum values where the business logic was not respected.
+-	Created a new column called “capping”, which is filled with three categories: “Normal claim” for claim with not discrepancies, “Capped at Billed” while Allowed > Claim Amount and “Capped at Allowed” while Paid>Allowed.
+  
+**Cleaned dataset**:
+
+
 ## 🎯 Project Goals
 
 - Build dashboards to monitor denial rates, trends, payer and department patterns.
