@@ -46,3 +46,7 @@ We are into the denial management step of **Revenue Cycle Management (RCM)** rig
 - Where are we making mistakes and why? 
 - Where should we spend recovery resources for best ROI? 
 -	Which denial reasons are most frequent and financial impact of them?
+
+  ## 📬 Contact
+**Leonel Djouokep**  
+📌 Open to data analytics roles | Excel • SQL • Tableau • Data Visualization 
