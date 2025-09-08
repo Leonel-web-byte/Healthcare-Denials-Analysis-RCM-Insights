@@ -27,9 +27,9 @@ We are into the denial management step of **Revenue Cycle Management (RCM)** rig
  
 ## 🧩 SQL Analysis
 
- I wrote modular '.sql' scripts for different parts of the analysis:
+ I wrote modular `.sql` scripts for different parts of the analysis:
  
- - '01_data.sql' → row counts, distinct statuses
+ - 01_data.sql → row counts, distinct statuses
    
  This helped me answer questions like:
 - Where are we losing money and why? 
