@@ -34,18 +34,18 @@ We are into the denial management step of **Revenue Cycle Management (RCM)** rig
   ## 🧱 Database Schema
   I  worked with 5 main tables:  
  
-## 🧩 SQL Analysis/Ad-Hoc 
+## 🧩 SQL/Ad-Hoc Analysis
 
  I wrote modular `.sql` scripts for different parts of the analysis:
  
  - 01_data.sql → row counts, distinct statuses
    
  This helped me answer questions like:
- - Summary metrics (**Total claims**, **RDR**, **RecDR**, **CDR**, **Money at risk**, **Preventable Denial claims**)
-- Where are we losing money and why? 
-- Where are we making mistakes and why? 
-- Where should we spend recovery resources for best ROI? 
--	Which denial reasons are most frequent and financial impact of them?
+ - **Summary metrics** (**Total claims**, **RDR**, **RecDR**, **CDR**, **Money at risk**, **Preventable Denial claims**)
+- **Where are we losing money and why?** 
+- **Where are we making mistakes and why?** 
+- **Where should we spend recovery resources for best ROI?** 
+-	**Which denial reasons are most frequent and financial impact of them?**
 
 ## 📊 Excel Dashboard Design
 The dashboard brings the SQL findings to life with visuals:  
