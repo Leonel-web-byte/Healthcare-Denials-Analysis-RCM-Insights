@@ -16,11 +16,11 @@ We are into the denial management step of **Revenue Cycle Management (RCM)** rig
 
 ## 🧠 KPIs
 
-- Claim denial rate (CDR)
-- Revenue denial rate (RDR)
-- Recoverable denial rate (RecDR)
-- Money at risk
-- Preventable denial claims rate
+- **Claim denial rate** (CDR)
+- **Revenue denial rate** (RDR)
+- **Recoverable denial rate** (RecDR)
+- **Money at risk**
+- **Preventable denial claims rate**
 
   ## 🧱 Database Schema
   I  worked with 5 main tables:  
@@ -29,9 +29,8 @@ We are into the denial management step of **Revenue Cycle Management (RCM)** rig
 
  I wrote modular .sql scripts for different parts of the analysis:
  
- -
- -
- -
+ - 01_data.sql → row counts, distinct statuses
+   
  This helped me answer questions like:
 - Where are we losing money and why? 
 - Where are we making mistakes and why? 
