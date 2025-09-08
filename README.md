@@ -5,36 +5,27 @@ We are into the denial management step of **Revenue Cycle Management (RCM)** rig
 👩‍💻 **Developer:** Leonel Djouokep  
 📌 **Subtitle:** SQL + Excel Portfolio Project  
 
-<h1>
-  <img src="https://valuechainplanning.com/upload/blog/28520.jpg" alt="Hospital Logo" width="50" style="vertical-align: middle; margin-right: 10px;">
-  Live Dashboard
-</h1>
+## 📊 Live Dashboard
 
-<h1>
-  <img src="https://scottklasen.com/wp-content/uploads/2021/04/goal-setting-1955806__480.png" alt="Hospital Logo" width="50" style="vertical-align: middle; margin-right: 10px;">
-  Project Goals
-</h1>
+## 🎯 Project Goals
 
 - Build dashboards to monitor denial rates, trends, payer and department patterns.
 - Analyze top denial reasons and financial impact.
 - Provide denial management with easy-to-read KPIs.
 - Highlight recoverable money and preventable denials.
 
-<h1>
-  <img src="https://www.lohmancompany.com/wp-content/uploads/2018/08/478552927-1-scaled-2560x1280.jpg" alt="Hospital Logo" width="50" style="vertical-align: middle; margin-right: 10px;">
-   KPIs
-</h1>
+## 🧠 KPIs
 
 - Claim denial rate (CDR)
 - Revenue denial rate (RDR)
 - Recoverable denial rate (RecDR)
 - Money at risk
 - Preventable denial claims rate
+
+  ## 🧱 Database Schema
+  I  worked with 5 main tables:  
  
- <h1>
-  <img src="https://optim.tildacdn.one/tild6238-3035-4335-a333-306335373139/-/format/webp/IMG_3349.jpg.webp" alt="Hospital Logo" width="50" style="vertical-align: middle; margin-right: 10px;">
-   SQL Analysis
-</h1>
+## 🧩 SQL Analysis
 
  I wrote modular .sql scripts for different parts of the analysis:
  
