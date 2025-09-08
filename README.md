@@ -37,7 +37,7 @@ We are into the denial management step of **Revenue Cycle Management (RCM)** rig
 </h1>
 
  I wrote modular .sql scripts for different parts of the analysis:
- -
+ 
  -
  -
  -
