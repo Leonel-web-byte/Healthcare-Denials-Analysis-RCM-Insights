@@ -9,3 +9,8 @@ We are into the denial management step of **Revenue Cycle Management (RCM)** rig
   <img src="https://valuechainplanning.com/upload/blog/28520.jpg" alt="Hospital Logo" width="50" style="vertical-align: middle; margin-right: 10px;">
   Live Dashboard
 </h1>
+
+<h1>
+  <img src="https://scottklasen.com/wp-content/uploads/2021/04/goal-setting-1955806__480.png" alt="Hospital Logo" width="50" style="vertical-align: middle; margin-right: 10px;">
+  Project Goals
+</h1>
