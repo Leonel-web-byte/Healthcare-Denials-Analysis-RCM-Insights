@@ -13,7 +13,7 @@ We are into the denial management step of **Revenue Cycle Management (RCM)** rig
 -	Capped claims Amount and Allowed Amount at minimum values where the business logic was not respected.
 -	Created a new column called “capping”, which is filled with three categories: “Normal claim” for claim with not discrepancies, “Capped at Billed” while Allowed > Claim Amount and “Capped at Allowed” while Paid>Allowed.
   
-**Cleaned dataset**:
+**Cleaned dataset**: <a href= "https://github.com/Leonel-web-byte/Healthcare-Denials-Analysis-RCM-Insights/blob/main/Cleaned%20Dataset_Pivot.xlsx"> View Dataset</a>
 
 
 ## 🎯 Project Goals
