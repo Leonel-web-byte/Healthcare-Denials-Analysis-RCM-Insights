@@ -68,6 +68,12 @@ The dashboard brings the SQL findings to life with visuals:
 
 👉 **Timely Filing** is the main root cause of claim denials in the **Orthopetics** department, resulting in a loss of **$7540.18**.
 
+## 📌 Actionable Insights
+Because the recoverable Revenue Denial Rate is low accross all departments and payers, the first action to take in order to reduce the **denial rate** and recover some return on investment **(ROI)** is:
+✅ Systematically Train Billing and Coding Team on how to avoid duplicate claims, perform accurate coding and submit claims on time.
+✅ Review payer policies, as many denied claims are not recoverable.
+✅ Deploy our Appeals team equitably across all departments, as the Recoverable Revenue Denial Rate **(RecRDR)** is nearly the same throughout all departments.
+
   ## 🛠️ Tools Used
 - **SQL**: PostgreSQL 
 - **Visualization**: Power Pivot Excel 
