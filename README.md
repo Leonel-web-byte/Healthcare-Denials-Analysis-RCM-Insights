@@ -56,9 +56,11 @@ The dashboard brings the SQL findings to life with visuals:
 <img width="549" height="279" alt="Claims_P" src="https://github.com/Leonel-web-byte/Healthcare-Denials-Analysis-RCM-Insights/blob/main/Dashboard.png" />
 
  ## 📌Key Insigths
- 👉 37.81% of all denied claims comes from the **Pediatrics** department and 36.46% comes from the **Orthopetics** department.
- 👉 34.30% of all denied claims comes from **Blue cross** and 33.85% comes from **UnitedHealthcare**.
+ 👉 **37.81%** of all denied claims comes from the **Pediatrics** department and **36.46%** comes from the **Orthopetics** department.
+ 
+ 👉 **34.30%** of all denied claims comes from **Blue cross** and **33.85%** comes from **UnitedHealthcare**.
 
+ 👉 The hospital faces a potential loss of **$149,999.99**, with only **$8,097.87** recoverable.
 
 
   ## 🛠️ Tools Used
