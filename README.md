@@ -62,6 +62,10 @@ The dashboard brings the SQL findings to life with visuals:
 
  👉 The hospital faces a potential loss of **$149,999.99**, with only **$8,097.87** recoverable.
 
+ 👉 The claim denial rate is **32.50%**, of which **23%** was preventable.
+
+ 👉 In the **Pediatrics** department, duplicate claims are the main root cause of claim denials, resulting in a loss of  **$4949.81**, followed by **coding errors**, which result in a loss of **$4667.53.**
+
 
   ## 🛠️ Tools Used
 - **SQL**: PostgreSQL 
