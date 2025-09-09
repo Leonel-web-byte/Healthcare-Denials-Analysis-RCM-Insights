@@ -64,8 +64,9 @@ The dashboard brings the SQL findings to life with visuals:
 
  👉 The claim denial rate is **32.50%**, of which **23%** was preventable.
 
- 👉 In the **Pediatrics** department, duplicate claims are the main root cause of claim denials, resulting in a loss of  **$4949.81**, followed by **coding errors**, which result in a loss of **$4667.53.**
+ 👉 In the **Pediatrics** department, **duplicate claims** are the main root cause of claim denials, resulting in a loss of  **$4949.81**, followed by **coding errors**, which result in a loss of **$4667.53.**
 
+👉 **Timely Filing** is the main root cause of claim denials in the **Orthopetics** department, resulting in a loss of **$7540.18**.
 
   ## 🛠️ Tools Used
 - **SQL**: PostgreSQL 
