@@ -50,7 +50,7 @@ We are into the denial management step of **Revenue Cycle Management (RCM)** rig
 ## 📊 Excel Dashboard Design
 The dashboard brings the SQL findings to life with visuals:  
 
-<img width="549" height="279" alt="Claims_P" src="https://github.com/Leonel-web-byte/Claims-Data-Validation-and-Anomaly-Detection/blob/main/Claims_Validation.png" />
+<img width="549" height="279" alt="Claims_P" src="https://github.com/Leonel-web-byte/Healthcare-Denials-Analysis-RCM-Insights/blob/main/Dashboard.png" />
 
   ## 🛠️ Tools Used
 - **SQL**: PostgreSQL 
