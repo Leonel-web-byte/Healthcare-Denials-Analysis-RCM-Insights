@@ -4,6 +4,7 @@ We are into the denial management step of **Revenue Cycle Management (RCM)** rig
 
 👩‍💻 **Developer:** Leonel Djouokep  
 📌 **Subtitle:** SQL + Excel Portfolio Project 
+
 📌 **Interactive Dashboard file** <a href= "https://github.com/Leonel-web-byte/Healthcare-Denials-Analysis-RCM-Insights/blob/main/PowerPivot.xlsx"> Click here</a>
 
 
