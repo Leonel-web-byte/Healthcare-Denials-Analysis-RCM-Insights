@@ -4,8 +4,7 @@ We are into the denial management step of **Revenue Cycle Management (RCM)** rig
 
 👩‍💻 **Developer:** Leonel Djouokep  
 📌 **Subtitle:** SQL + Excel Portfolio Project 
-
-📌 **Interactive Dashboard file** <a href= "https://github.com/Leonel-web-byte/Healthcare-Denials-Analysis-RCM-Insights/blob/main/Cleaned%20Dataset_Pivot.xlsx"> Click here</a>
+📌 **Interactive Dashboard file** <a href= "https://github.com/Leonel-web-byte/Healthcare-Denials-Analysis-RCM-Insights/commit/6149c200ad65277e5dbbb7ef3fd7410e5a551177"> Click here</a>
 
 ## 📊  Data Cleaning
 -	I removed 22 duplicate claims from the dirty dataset
